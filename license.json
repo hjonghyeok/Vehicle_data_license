@@ -1,10 +1,10 @@
 {
   "GBTP": {
     "enabled": true,
-    "expiration_date": "2026-10-01T23:59:59+09:00"
+    "expiration_date": "2026-11-01T23:59:59+09:00"
   },
   "ACSLAB": {
     "enabled": true,
-    "expiration_date": "2027-12-31T23:59:59+09:00"
+    "expiration_date": "2040-12-31T23:59:59+09:00"
   }
 }
